@@ -1,0 +1,21 @@
+body{
+    background-image: radial-gradient(circle, #ffffff, #b9b9b9, #777777, #3b3b3b, #000000);
+}
+
+.title{
+    color: #ffffff;
+}
+
+.top1{
+color: blueviolet;
+}
+
+.list1{
+
+background-color: darkviolet;
+  color: aqua;
+}
+
+.cookieextra{
+  text-align: right;
+}
